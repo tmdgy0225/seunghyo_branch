@@ -5,3 +5,5 @@ issue resolved
 Hotfix teams's soulution
 Hew function added
 Team upgraded
+----------
+New fatal error
