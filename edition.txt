@@ -8,3 +8,4 @@ Team upgraded
 ----------
 New fatal error
 I will solve the error in remote repository. wait
+I solve the fatal error bt commit
